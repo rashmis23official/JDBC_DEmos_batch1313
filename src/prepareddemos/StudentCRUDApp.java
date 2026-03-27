@@ -125,6 +125,7 @@ public class StudentCRUDApp {
 		}
 	}
 	public static void main(String[] args) {		
+		
 		Scanner sc=new Scanner(System.in);		
 		StudentCRUDApp studApp=new StudentCRUDApp();
 		do
